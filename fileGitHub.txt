@@ -2,3 +2,6 @@ ficheiro para o GitHub
 
 
 bla bla
+
+
+alteração depois da tag 1.0
